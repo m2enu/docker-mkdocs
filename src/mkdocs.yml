@@ -1,0 +1,13 @@
+site_name: Docker-Mkdocs
+
+theme:
+    name: 'material'
+
+extra:
+    search:
+        language: 'ja'
+
+markdown_extensions:
+    - codehilite:
+        use_pygments: true
+
